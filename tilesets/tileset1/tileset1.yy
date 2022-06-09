@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "GroundSprites",
-    "path": "sprites/GroundSprites/GroundSprites.yy",
+    "name": "TileSetSprites",
+    "path": "sprites/TileSetSprites/TileSetSprites.yy",
   },
-  "tileWidth": 32,
-  "tileHeight": 32,
+  "tileWidth": 16,
+  "tileHeight": 16,
   "tilexoff": 0,
   "tileyoff": 0,
   "tilehsep": 0,

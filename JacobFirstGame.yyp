@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"GroundSprites","path":"sprites/GroundSprites/GroundSprites.yy",},"order":7,},
+    {"id":{"name":"TileSetSprites","path":"sprites/TileSetSprites/TileSetSprites.yy",},"order":7,},
     {"id":{"name":"Everything","path":"sprites/Everything/Everything.yy",},"order":5,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"PlayerUpSprite","path":"sprites/PlayerUpSprite/PlayerUpSprite.yy",},"order":3,},
@@ -39,10 +39,10 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.5.1.14",
+    "IDEVersion": "2022.5.1.16",
   },
   "resourceVersion": "1.5",
-  "name": "Blank",
+  "name": "JacobFirstGame",
   "tags": [],
   "resourceType": "GMProject",
 }

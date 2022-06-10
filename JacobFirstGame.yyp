@@ -3,6 +3,7 @@
     {"id":{"name":"TileSetSprites","path":"sprites/TileSetSprites/TileSetSprites.yy",},"order":7,},
     {"id":{"name":"Everything","path":"sprites/Everything/Everything.yy",},"order":5,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":14,},
     {"id":{"name":"PlayerUpSprite","path":"sprites/PlayerUpSprite/PlayerUpSprite.yy",},"order":3,},
     {"id":{"name":"PlayerRightSprite","path":"sprites/PlayerRightSprite/PlayerRightSprite.yy",},"order":1,},
     {"id":{"name":"PlayerDownSprite","path":"sprites/PlayerDownSprite/PlayerDownSprite.yy",},"order":2,},
@@ -39,7 +40,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.5.0.8",
+    "IDEVersion": "2022.5.1.16",
   },
   "resourceVersion": "1.5",
   "name": "JacobFirstGame",

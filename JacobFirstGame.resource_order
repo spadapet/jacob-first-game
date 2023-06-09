@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Scripts","order":16,"path":"folders/Scripts.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"TileSetSprites","order":7,"path":"sprites/TileSetSprites/TileSetSprites.yy",},
+    {"name":"Everything","order":5,"path":"sprites/Everything/Everything.yy",},
+    {"name":"ScriptMovement","order":1,"path":"scripts/ScriptMovement/ScriptMovement.yy",},
+    {"name":"PlayerUpSprite","order":3,"path":"sprites/PlayerUpSprite/PlayerUpSprite.yy",},
+    {"name":"PlayerRightSprite","order":1,"path":"sprites/PlayerRightSprite/PlayerRightSprite.yy",},
+    {"name":"PlayerDownSprite","order":2,"path":"sprites/PlayerDownSprite/PlayerDownSprite.yy",},
+    {"name":"PlayerBulletSprite","order":4,"path":"sprites/PlayerBulletSprite/PlayerBulletSprite.yy",},
+    {"name":"PlayerObject","order":1,"path":"objects/PlayerObject/PlayerObject.yy",},
+  ],
+}

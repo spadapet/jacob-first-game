@@ -5,9 +5,7 @@ function move_outside_solid_tiles_x_internal(obj_id, obj_x, obj_y, tiles_id)
 	if (tile > 0)
 	{
 		var tile_width = tilemap_get_tile_width(tiles_id);
-		var tile_height = tilemap_get_tile_height(tiles_id);
 		var tile_x = tilemap_get_cell_x_at_pixel(tiles_id, obj_x, 0);
-		var tile_y = tilemap_get_cell_y_at_pixel(tiles_id, 0, obj_y);
 		
 		if (obj_x >= obj_id.bbox_right)
 		{
@@ -26,9 +24,7 @@ function move_outside_solid_tiles_y_internal(obj_id, obj_x, obj_y, tiles_id)
 	
 	if (tile > 0)
 	{
-		var tile_width = tilemap_get_tile_width(tiles_id);
 		var tile_height = tilemap_get_tile_height(tiles_id);
-		var tile_x = tilemap_get_cell_x_at_pixel(tiles_id, obj_x, 0);
 		var tile_y = tilemap_get_cell_y_at_pixel(tiles_id, 0, obj_y);
 		
 		if (obj_x >= obj_id.bbox_bottom)
